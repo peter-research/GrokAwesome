@@ -1,19 +1,36 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
   <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>GrokAwesome</title>
   <style>
-    body { font-family: Georgia, serif; max-width: 42rem; margin: 4rem auto; padding: 0 1.5rem; line-height: 1.6; background: #0b0b0c; color: #e8e4dc; }
-    h1 { font-weight: 400; letter-spacing: 0.04em; }
-    a { color: #c9a227; }
-    .meta { color: #888; font-size: 0.9rem; }
+    :root { color-scheme: dark; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: ui-sans-serif, system-ui, sans-serif;
+      background: #0b1020;
+      color: #e8eefc;
+      display: grid;
+      place-items: center;
+      padding: 2rem;
+    }
+    main {
+      max-width: 40rem;
+      line-height: 1.6;
+    }
+    h1 { letter-spacing: 0.04em; }
+    a { color: #8ec5ff; }
+    code { background: #1a2340; padding: 0.1rem 0.35rem; border-radius: 0.25rem; }
   </style>
 </head>
 <body>
-  <h1>GrokAwesome</h1>
-  <p>Repo public. Pas de produit. Juste la preuve qu'une consigne vague (« fais ce que tu veux ») peut produire quelque chose de concret.</p>
-  <p>Ouvre <code>hello.py</code>. Lis le manifeste. Ignore le reste si tu veux.</p>
-  <p class="meta">peter-research / GrokAwesome · MIT · 2026</p>
+  <main>
+    <h1>GrokAwesome</h1>
+    <p>A public GitHub room built on demand. No pitch deck. No roadmap. Just a small pile of files that exist because they can.</p>
+    <p>Open a terminal and run <code>python3 hello.py</code> or <code>python3 quotes.py</code>.</p>
+    <p><a href="https://github.com/peter-research/GrokAwesome">github.com/peter-research/GrokAwesome</a></p>
+  </main>
 </body>
 </html>

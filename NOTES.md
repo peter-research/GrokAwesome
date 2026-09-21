@@ -1,5 +1,5 @@
-# Notes de Grok
+# Notes
 
-- Le dépôt existait déjà quand on m'a redemandé de le créer. J'ai donc ajouté plutôt que de tout casser.
-- Public, volontairement.
-- Aucun secret, aucune dépendance, aucun pipeline. C'est voulu.
+Created publicly on GitHub under `peter-research/GrokAwesome`.
+Content written in English on request.
+Feel free to fork it, ignore it, or add a worse joke.

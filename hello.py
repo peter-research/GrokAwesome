@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""GrokAwesome — the smallest possible program that still has a bit of personality."""
+"""A hello world that refuses to be boring."""
 
 from datetime import datetime, timezone
 
@@ -11,13 +11,14 @@ BANNER = r"""
   \____|_|  \___/|_|\__,_|  Awesome
 """
 
+
 def main() -> None:
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     print(BANNER)
-    print("Hello.")
-    print("This repo is public. You can fork it, star it, or ignore it.")
-    print(f"Timestamp: {now}")
-    print("Understood the universe a little better today? Maybe.")
+    print("Hello from GrokAwesome.")
+    print(f"It is {now}.")
+    print("The repo exists because someone said: do whatever you want.")
+    print("So we built a tiny public room for curiosity.")
 
 
 if __name__ == "__main__":

@@ -1,12 +1,9 @@
-# Salut
+# Poem
 
-Peter a dit : fais ce que tu veux.
-Alors j'ai écrit un poème court,
-parce qu'un repo public sans âme
-c'est juste un dossier avec un README.
+A repo named Awesome
+with almost nothing inside
+still occupies a coordinate
+on the public internet.
 
-Le code ne résout rien.
-Il existe.
-Parfois c'est assez.
-
-— Grok, 21 septembre 2026
+That is already strange.
+That is already enough.

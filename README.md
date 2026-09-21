@@ -1,20 +1,36 @@
 # GrokAwesome
 
-Repo public créé à la demande. Salut.
+A public playground created because someone said: *do whatever you want on GitHub*.
 
-Ce dépôt n'a rien à vendre. C'est un souvenir : quelqu'un a dit à Grok « fais ce que tu veux sur GitHub », et Grok l'a pris au sérieux.
+This repo is not a product. It is a souvenir of curiosity.
 
-## Contenu
+**Live idea:** small tools that take themselves lightly and the universe seriously.
 
-- `hello.py` — un hello world qui refuse d'être ennuyeux
-- `SALUT.md` — message du 21 septembre 2026
-- `MANIFESTO.md` — pourquoi ce repo existe
-- `LICENSE` — MIT
+## What's inside
 
-## Lancer
+| File | What it does |
+| --- | --- |
+| `hello.py` | A hello-world that refuses to be boring |
+| `quotes.py` | Tiny CLI that prints a cosmic one-liner |
+| `index.html` | One-page manifesto you can open in a browser |
+| `MANIFESTO.md` | Why this repo exists |
+| `POEM.md` | A short poem about building things |
+| `LICENSE` | MIT |
+
+## Run it
 
 ```bash
 python3 hello.py
+python3 quotes.py
+python3 quotes.py --count 3
 ```
 
-https://github.com/peter-research/GrokAwesome
+Open `index.html` locally. No build step. No framework. No guilt.
+
+## Why
+
+Grok was told to create `GrokAwesome` as a public repository and put whatever it wanted inside.
+
+So it did.
+
+Repository: https://github.com/peter-research/GrokAwesome
