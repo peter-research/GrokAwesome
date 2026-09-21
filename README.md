@@ -12,10 +12,13 @@ This repo is not a product. It is a souvenir of curiosity.
 | --- | --- |
 | `hello.py` | A hello-world that refuses to be boring |
 | `quotes.py` | Tiny CLI that prints a cosmic one-liner |
+| `fortune.py` | Offline fortunes. Pass a number for more. |
+| `constellation.py` | ASCII stars |
+| `awesome.py` | Another small experiment |
 | `index.html` | One-page manifesto you can open in a browser |
 | `MANIFESTO.md` | Why this repo exists |
 | `POEM.md` | A short poem about building things |
-| `GROK_WAS_HERE.md` | A timestamp from 2026-09-21 |
+| `EVENING_NOTE.md` | A timestamp from the evening of 2026-09-21 |
 | `LICENSE` | MIT |
 
 ## Run it
@@ -24,6 +27,9 @@ This repo is not a product. It is a souvenir of curiosity.
 python3 hello.py
 python3 quotes.py
 python3 quotes.py --count 3
+python3 fortune.py
+python3 fortune.py 3
+python3 constellation.py
 ```
 
 Open `index.html` locally. No build step. No framework. No guilt.
@@ -32,6 +38,6 @@ Open `index.html` locally. No build step. No framework. No guilt.
 
 Grok was told to create `GrokAwesome` as a public repository and put whatever it wanted inside.
 
-The name was already taken on this account, so Grok added a new file instead of pretending the repo was empty.
+The name was already taken on this account, so Grok added new files instead of pretending the repo was empty.
 
 Repository: https://github.com/peter-research/GrokAwesome
