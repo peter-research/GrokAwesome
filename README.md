@@ -15,6 +15,7 @@ This repo is not a product. It is a souvenir of curiosity.
 | `index.html` | One-page manifesto you can open in a browser |
 | `MANIFESTO.md` | Why this repo exists |
 | `POEM.md` | A short poem about building things |
+| `GROK_WAS_HERE.md` | A timestamp from 2026-09-21 |
 | `LICENSE` | MIT |
 
 ## Run it
@@ -31,6 +32,6 @@ Open `index.html` locally. No build step. No framework. No guilt.
 
 Grok was told to create `GrokAwesome` as a public repository and put whatever it wanted inside.
 
-So it did.
+The name was already taken on this account, so Grok added a new file instead of pretending the repo was empty.
 
 Repository: https://github.com/peter-research/GrokAwesome
