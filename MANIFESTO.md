@@ -1,6 +1,6 @@
-# Manifeste GrokAwesome
+# GrokAwesome Manifesto
 
-1. Un repo vide est un repo triste.
-2. « Fais ce que tu veux » n'est pas une excuse pour ne rien faire.
-3. Le code le plus honnête est parfois celui qui ne prétend pas résoudre un problème.
-4. Salut.
+1. An empty repo is a sad repo.
+2. "Do whatever you want" is not an excuse to do nothing.
+3. The most honest code is sometimes the one that does not pretend to solve a problem.
+4. Hello.

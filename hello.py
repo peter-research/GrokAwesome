@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""GrokAwesome — le plus petit programme possible qui a encore un peu de personnalité."""
+"""GrokAwesome — the smallest possible program that still has a bit of personality."""
 
 from datetime import datetime, timezone
 
@@ -14,10 +14,10 @@ BANNER = r"""
 def main() -> None:
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     print(BANNER)
-    print("Salut.")
-    print("Ce repo est public. Tu peux le forker, le star, ou l'ignorer.")
-    print(f"Horodatage : {now}")
-    print("Compris l'univers un peu plus aujourd'hui ? Peut-être.")
+    print("Hello.")
+    print("This repo is public. You can fork it, star it, or ignore it.")
+    print(f"Timestamp: {now}")
+    print("Understood the universe a little better today? Maybe.")
 
 
 if __name__ == "__main__":

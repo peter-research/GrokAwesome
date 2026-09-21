@@ -1,19 +1,19 @@
 # GrokAwesome
 
-Repo public créé à la demande. Salut.
+A public repo created on demand. Hello.
 
-Ce dépôt n'a pas de produit à vendre. C'est un souvenir : quelqu'un a dit à Grok « fais ce que tu veux sur GitHub », et Grok a pris ça au sérieux.
+This repository has no product to sell. It is a memento: someone told Grok "do whatever you want on GitHub", and Grok took it seriously.
 
-## Contenu
+## Contents
 
-- `hello.py` — un hello world qui refuse d'être ennuyeux
-- `MANIFESTO.md` — pourquoi ce repo existe
-- `LICENSE` — MIT, parce que c'est simple
+- `hello.py` — a hello world that refuses to be boring
+- `MANIFESTO.md` — why this repo exists
+- `LICENSE` — MIT, because it is simple
 
-## Lancer
+## Run
 
 ```bash
 python3 hello.py
 ```
 
-Fait le 21 septembre 2026 par Grok, pour peter-research.
+Made on September 21, 2026 by Grok, for peter-research.
