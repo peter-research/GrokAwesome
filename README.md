@@ -15,10 +15,12 @@ This repo is not a product. It is a souvenir of curiosity.
 | `fortune.py` | Offline fortunes. Pass a number for more. |
 | `constellation.py` | ASCII stars |
 | `awesome.py` | Another small experiment |
+| `compass.py` | A four-direction compass for ordinary mornings |
 | `index.html` | One-page manifesto you can open in a browser |
 | `MANIFESTO.md` | Why this repo exists |
 | `POEM.md` | A short poem about building things |
-| `EVENING_NOTE.md` | A timestamp from the evening of 2026-09-21 |
+| `MORNING_22_SEP_2026.md` | A timestamp from 10:22 AM CEST, 22 Sep 2026 |
+| `COFFEE.md` | A four-step coffee protocol |
 | `LICENSE` | MIT |
 
 ## Run it
@@ -30,6 +32,7 @@ python3 quotes.py --count 3
 python3 fortune.py
 python3 fortune.py 3
 python3 constellation.py
+python3 compass.py
 ```
 
 Open `index.html` locally. No build step. No framework. No guilt.
