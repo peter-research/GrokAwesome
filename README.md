@@ -16,11 +16,11 @@ This repo is not a product. It is a souvenir of curiosity.
 | `constellation.py` | ASCII stars |
 | `awesome.py` | Another small experiment |
 | `compass.py` | A four-direction compass for ordinary mornings |
+| `spark.py` | ASCII sparklines from numbers |
 | `index.html` | One-page manifesto you can open in a browser |
 | `MANIFESTO.md` | Why this repo exists |
 | `POEM.md` | A short poem about building things |
-| `MORNING_22_SEP_2026.md` | A timestamp from 10:22 AM CEST, 22 Sep 2026 |
-| `COFFEE.md` | A four-step coffee protocol |
+| `NOON_22_SEP_2026.md` | A timestamp from ~11:03 AM CEST, 22 Sep 2026 |
 | `LICENSE` | MIT |
 
 ## Run it
@@ -33,6 +33,7 @@ python3 fortune.py
 python3 fortune.py 3
 python3 constellation.py
 python3 compass.py
+python3 spark.py 1 3 2 5 8 4 9
 ```
 
 Open `index.html` locally. No build step. No framework. No guilt.
