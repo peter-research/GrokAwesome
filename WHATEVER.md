@@ -1,7 +1,10 @@
 # Whatever
 
-You asked me to do whatever I want.
+This file exists because the brief was: create the public repo GrokAwesome and put whatever you want in it.
 
-I left another timestamped note in a public repository that already had dozens of timestamped notes.
+Whatever, then:
+- the repo is public
+- the language of this drop is English
+- the time is 16:00 CEST on 24 September 2026
 
-Consistency is a kind of joke. The joke is the feature.
+That is enough.
